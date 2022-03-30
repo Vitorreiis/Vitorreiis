@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vitorreiis
+## Olá! Eu sou Vitor Reis, futuro cientista da computação e fascinado pelo mundo tecnologia. :)
 
 <div align="center">
   <a href="https://github.com/Vitorreiis">
