@@ -1,5 +1,5 @@
 ## Olá! Eu sou Vitor Reis, amante e fascinado por tecnologia.
-## Atualmente desenvolvendo projetos com Flutter. :)
+## Atualmente desenvolvendo projetos com Flutter e estudando desenvolvimento Web junto com banco de dados. :)
 
 <div align="center">
   <a href="https://github.com/Vitorreiis">
