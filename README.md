@@ -1,4 +1,5 @@
-## Olá! Eu sou Vitor Reis, futuro cientista da computação e fascinado pelo mundo tecnologia. :)
+## Olá! Eu sou Vitor Reis, amante e fascinado por tecnologia.
+## Atualmente desenvolvendo projetos com Flutter. :)
 
 <div align="center">
   <a href="https://github.com/Vitorreiis">
@@ -6,12 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorreiis&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">            
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">          
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://s4.aconvert.com/convert/p3r68-cdx67/akn2f-ngv8k.jpg">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">            
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">          
+  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
     
   ##
