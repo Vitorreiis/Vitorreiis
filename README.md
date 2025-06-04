@@ -1,11 +1,8 @@
 <code>System.out.println("Welcome to my github!😆")</code>
 
-<div align="center">
-  <a href="https://github.com/Vitorreiis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorreiis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorreiis&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-  <div style="display: inline_block"><br>
+<p>👨‍💻 Graduated in Computer Science at <a href="[https://www.itau.com.br/](https://landing.unifacs.br/cursos-de-faculdade?utm_source=search&utm_medium=cpc&utm_campaign=UNIFACS|GRAD|TODOS|INSTITUCIONAL-252|02|05|01|02|&utm_term=cpc&utm_content=Institucional&gad_source=1&gad_campaignid=21738190779&gbraid=0AAAAADo-O54lB5Y1cfE0lxfXSknUjK2ka&gclid=CjwKCAjw3f_BBhAPEiwAaA3K5BQax2K_X2d6C8H9AlHAtxwES_rubr5LeOuCIfv5J5gX6ruC0yd34xoCkhEQAvD_BwE&gclsrc=aw.ds)" target="blank_">UNIFACS</a></p>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">            
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">          
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
