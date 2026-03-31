@@ -1,6 +1,6 @@
 <code>System.out.println("Welcome to my github!😆")</code>
 <br></br>
-<code>Desenvolvedor Backend java</code>
+<code>Desenvolvedor Backend Java</code>
 
 
 <p>🎓Bacharelado em Ciência da Computação<a href="https://www.unifacs.br/" target="blank_">UNIFACS</a></p>
