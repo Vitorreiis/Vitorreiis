@@ -8,6 +8,8 @@
 
 Sou desenvolvedor backend especializado no ecossistema **Java**, focado em construção de **APIs robustas**, **sistemas escaláveis** e **soluções orientadas ao negócio**.
 
+Com experiências em desenvolvimento de **Aplicações Web** e **Mobile**.
+
 Tenho como principais pilares: **código limpo**, **performance**, **escalabilidade** e **boas práticas de arquitetura**.
 **Busco sempre desenvolver sistemas que não apenas funcionem, mas que sejam sustentáveis, eficientes e prontos para crescer.**
 
