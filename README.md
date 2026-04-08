@@ -47,7 +47,7 @@ Tenho como principais pilares: **código limpo**, **performance**, **escalabilid
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stacks
 
 ### ⭐ Backend
 
